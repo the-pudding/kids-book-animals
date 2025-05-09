@@ -45,7 +45,7 @@
 					<strong class="title">{book.title} ({book.pub_year})</strong>
 					<div class="author">By {book.author}</div>
 					<div class="num-ratings">
-						{formatRatings(book.num_ratings)} ratings
+						{formatRatings(book.num_ratings)} Goodreads ratings
 					</div>
 				</div>
 			</swiper-slide>
